@@ -1,6 +1,0 @@
-echo "# curly-train" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/5klp471/curly-train.git
-git push -u origin master
